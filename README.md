@@ -1,6 +1,6 @@
 效果图
 ---
-![效果图](https://github.com/ly931126/TimeView/blob/master/picture/time_view.png)
+![效果图](https://github.com/ly931126/TimeView/blob/master/picture/weather.png)
 
 ---
 
