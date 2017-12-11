@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="85dp"
+                android:background="#ffffff">
+    <TextView
+        android:id="@+id/time_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-thin"
+        android:gravity="center"
+        android:text="14:22"
+        android:textColor="@color/text_color_taupe"
+        android:textSize="@dimen/time_text_size"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/date_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/time_text"
+        android:layout_marginTop="@dimen/margin_super_micro"
+        android:fontFamily="sans-serif-thin"
+        android:gravity="center"
+        android:text="2015/4/12"
+        android:textColor="@color/text_color_dim_grey"
+        android:textSize="@dimen/date_text_size"
+        android:textStyle="bold"/>
+
+    <ImageView
+        android:id="@+id/meal_image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/margin_normal"
+        android:layout_toRightOf="@+id/time_text"/>
+
+    <View
+        android:id="@+id/line_normal"
+        android:layout_width="85dp"
+        android:layout_height="match_parent"
+        android:layout_alignLeft="@+id/meal_image"
+        android:layout_below="@+id/meal_image"
+        android:layout_marginLeft="-38dp"
+        android:layout_marginRight="-38dp"
+        android:background="@drawable/dashed_line_shape"
+        android:layerType="software"
+        android:visibility="visible"/>
+
+    <TextView
+        android:id="@+id/result_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/margin_normal"
+        android:layout_toRightOf="@+id/meal_image"
+        android:fontFamily="sans-serif-thin"
+        android:text="niddfff"
+        android:textColor="@color/text_color_blue"
+        android:textSize="@dimen/text_size_micro"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/result_range_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/result_text"
+        android:layout_below="@+id/result_text"
+        android:layout_marginTop="@dimen/margin_micro"
+        android:fontFamily="sans-serif-thin"
+        android:text="4445ffffvgb"
+        android:textColor="@color/text_color_dim_grey"
+        android:textSize="@dimen/result_range_text_size"
+        android:textStyle="bold"/>
+
+
+</RelativeLayout>
+

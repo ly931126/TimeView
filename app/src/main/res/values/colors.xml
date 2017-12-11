@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- text color -->
+    <color name="text_color_toast">#564A41</color>
+    <color name="text_color_light_blue">#991d5881</color>
+    <color name="text_color_blue">#1d5881</color>
+    <color name="text_color_grayish">#545759</color>
+    <color name="text_color_lime">#565559</color>
+    <color name="text_color_grey">#99565559</color>
+    <color name="text_color_light_gray">#535855</color>
+    <color name="text_color_ashes">#555759</color>
+    <color name="text_color_dim_grey">#909793</color>
+    <color name="text_color_sky_blue">#8bc4ff</color>
+    <color name="text_color_azure_blue">#93a7ba</color>
+    <color name="text_color_black_ash">#a7a7a7</color>
+    <color name="text_color_taupe">#535855</color>
+    <color name="text_color_orange_red">#f06d24</color>
+    <color name="text_color_tephrosious">#99ffffff</color>
+
+    <!-- login -->
+    <color name="btn_press_color">#801d5881</color>
+
+    <!-- main -->
+    <color name="main_menu_bg_color">#eaf3ef</color>
+    <color name="member_photo_image_frame_color">#edf6f2</color>
+    <color name="edit_member_btn_press">#e9f0f2</color>
+    <color name="edit_btn_line_color">#b0b6b3</color>
+
+    <!-- menu window -->
+    <color name="menu_window_bg_color">#cc000000</color>
+    <color name="menu_item_select_color">#535855</color>
+    <color name="qr_code_corner">#3197ff</color>
+    <color name="qr_tip_text_color">#7fffffff</color>
+    <color name="qr_bg">#3f000000</color>
+
+    <!-- measure -->
+    <color name="complete_progress_color">#73ad56</color>
+
+    <!-- detail -->
+    <color name="vertical_line">#7b7f82</color>
+    <color name="item_blue">#1d5881</color>
+    <color name="item_green">#86b045</color>
+    <color name="before_meal_line_color">#94d058</color>
+    <color name="after_meal_line_color">#5d8ee7</color>
+    <color name="healthy_color">#1296f2</color>
+    <color name="lower_limit_line_color">#365d85</color>
+    <color name="supper_limit_line_color">#FF0000</color>
+    <color name="health_toast_bg">#BF000000</color>
+
+    <!-- risk & suggest -->
+    <color name="text_gray">#818e9a</color>
+
+    <!-- load progress dialog -->
+    <color name="wait_window_bg_color">#7F000000</color>
+    <color name="wait_dot_progress_light">#86b045</color>
+    <color name="wait_dot_progress_grey">#B2D4D4D4</color>
+
+</resources>

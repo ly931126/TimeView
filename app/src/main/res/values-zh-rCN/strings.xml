@@ -1,0 +1,163 @@
+<resources>
+    <string name="app_name">yuiiii</string>
+
+    <!--&lt;!&ndash; login  &ndash;&gt;-->
+    <!--<string name="user_name">用户名</string>-->
+    <!--<string name="user_password">密码</string>-->
+    <!--<string name="remember_info_text">记住密码</string>-->
+    <!--<string name="forget_password_text">忘记密码</string>-->
+    <!--<string name="register_text_question">没有账户？</string>-->
+    <!--<string name="register">注册</string>-->
+    <!--<string name="login">登录</string>-->
+    <!--<string name="confirm_password">确认密码</string>-->
+    <!--<string name="user_email">邮箱</string>-->
+    <!--<string name="new_member_password">新密码</string>-->
+    <!--<string name="new_confirm_password">确认新密码</string>-->
+    <!--<string name="user_code">验证码</string>-->
+    <!--<string name="send_code">发送验证码</string>-->
+    <!--<string name="send_code_timer">%1$d秒</string>-->
+    <!--<string name="confirm">确认</string>-->
+    <!--<string name="terms_conditions_text"><![CDATA[使用条款和隐私政策]]></string>-->
+    <!--<string name="login_error_account">用户名或密码错误，请重新输入</string>-->
+    <!--<string name="login_active_account">账户未激活，请进入邮箱激活账号</string>-->
+
+    <!--<string name="empty_user_name">用户名不能为空！</string>-->
+    <!--<string name="empty_pwd">密码不能为空！</string>-->
+    <!--<string name="pwd_len_limit">密码长度为4位！</string>-->
+    <!--<string name="error_match_pwd">两次输入的密码不一致！</string>-->
+    <!--<string name="empty_email">邮箱不能为空！</string>-->
+    <!--<string name="error_format_email">邮箱格式错误！</string>-->
+    <!--<string name="register_success">注册成功！请登录您的邮箱激活账户。</string>-->
+    <!--<string name="register_exist_name">用户名已存在，请输入其他用户名</string>-->
+    <!--<string name="register_exist_email">邮箱已存在，请输入其他邮箱</string>-->
+    <!--<string name="register_error_email">邮箱格式错误，请检查</string>-->
+    <!--<string name="connect_failed">连接服务器失败，请稍后再试！</string>-->
+    <!--<string name="server_error">服务器异常！</string>-->
+    <!--<string name="request_verify_code">请输入邮箱里面的验证码</string>-->
+    <!--<string name="modify_pwd_success">修改密码成功！</string>-->
+    <!--<string name="verify_code_timer_limit">离上次验证码获取未超过60秒，请稍后尝试</string>-->
+    <!--<string name="forget_pwd_not_exist_email">邮箱不存在，请检查</string>-->
+    <!--<string name="verify_code_error">验证码错误，请重新输入</string>-->
+    <!--<string name="verify_code_overdue">验证码过期，请重新获取</string>-->
+
+    <!--&lt;!&ndash; main &ndash;&gt;-->
+    <!--<string name="main_top_bar_title">成员</string>-->
+    <!--<string name="measure_text">测量</string>-->
+
+    <!--&lt;!&ndash; slide menu &ndash;&gt;-->
+    <!--<string name="account_manager">账户管理</string>-->
+    <!--<string name="setting">设置</string>-->
+    <!--<string name="about">关于</string>-->
+
+    <!--&lt;!&ndash; menu window &ndash;&gt;-->
+    <!--<string name="add_member">添加成员</string>-->
+    <!--<string name="delete_member">删除成员</string>-->
+
+    <!--&lt;!&ndash; edit member window &ndash;&gt;-->
+    <!--<string name="name_text">姓名</string>-->
+    <!--<string name="birthday_text">生日</string>-->
+    <!--<string name="sex_female">女</string>-->
+    <!--<string name="sex_male">男</string>-->
+    <!--<string name="cancel">取消</string>-->
+    <!--<string name="finish">完成</string>-->
+    <!--<string name="empty_name">名字不能为空</string>-->
+
+    <!--&lt;!&ndash; QR code &ndash;&gt;-->
+    <!--<string name="error_open_camera">打开摄像头错误！</string>-->
+    <!--<string name="error_qr_code">错误的二维码！</string>-->
+    <!--<string name="qr_code">扫描二维码</string>-->
+    <!--<string name="qr_code_tip">扫描机顶盒界面上的二维码，可以自动登录-->
+    <!--</string>-->
+    <!--<string name="qr_login_success">二维码登录成功</string>-->
+    <!--<string name="qr_login_failed">二维码登录失败</string>-->
+
+    <!--&lt;!&ndash; account manager &ndash;&gt;-->
+    <!--<string name="change_password">修改密码</string>-->
+    <!--<string name="change_email">修改邮箱</string>-->
+    <!--<string name="old_password">旧密码</string>-->
+    <!--<string name="new_member_email">新邮箱</string>-->
+    <!--<string name="new_confirm_email">确认新邮箱</string>-->
+    <!--<string name="empty_old_pwd">旧密码不能为空！</string>-->
+    <!--<string name="empty_new_pwd">新密码不能为空！</string>-->
+    <!--<string name="error_old_pwd">旧密码错误，请重新输入</string>-->
+    <!--<string name="modify_old_pwd_failed">修改旧密码失败！</string>-->
+    <!--<string name="modify_email_success">修改邮箱成功！</string>-->
+    <!--<string name="new_email_exist">新邮箱已存在，请重新输入</string>-->
+    <!--<string name="modify_email_pwd_error">输入密码错误，请重新输入</string>-->
+    <!--<string name="modify_email_failed">修改邮箱失败！</string>-->
+    <!--<string name="log_out_text">注销</string>-->
+
+    <!--&lt;!&ndash; setting &ndash;&gt;-->
+    <!--<string name="setting_unit">测量单位设置</string>-->
+    <!--<string name="setting_mol">mmol/L</string>-->
+    <!--<string name="setting_mg">mg/dL</string>-->
+    <!--<string name="setting_connect_way">测量设备类型</string>-->
+    <!--<string name="setting_bluetooth">蓝牙类型</string>-->
+    <!--<string name="setting_usb">USB类型</string>-->
+
+    <!--&lt;!&ndash; about &ndash;&gt;-->
+    <!--<string name="check_update">检查更新</string>-->
+    <!--<string name="version_new">新</string>-->
+    <!--<string name="update_text">更新</string>-->
+    <!--<string name="version_latest">您的应用为最新版本！</string>-->
+
+    <!--&lt;!&ndash; measure &ndash;&gt;-->
+    <!--<string name="no_support_bluetooth">您的设备不支持蓝牙！</string>-->
+    <!--<string name="no_found_device">未找到蓝牙设备，请开启您的测量设备！</string>-->
+    <!--<string name="bluetooth_connect_text">蓝牙类型</string>-->
+    <!--<string name="usb_connect_text">USB类型</string>-->
+    <!--<string name="measure_step_text">测量</string>-->
+    <!--<string name="connect_device_text">连接设备</string>-->
+    <!--<string name="measure_top_info">请打开测量设备，然后连接手机</string>-->
+    <!--<string name="bottom_info_text">点击下面的按钮，连接设备。</string>-->
+    <!--<string name="usb_connect_failed">USB连接失败，请检查是否支持OTG</string>-->
+    <!--<string name="measure_connect_success">设备连接成功</string>-->
+    <!--<string name="measure_insert_usb_device">请插入测量设备。</string>-->
+    <!--<string name="measure_insert_text_paper">请插入试纸。</string>-->
+    <!--<string name="measure_drop_blood">试纸已经插入，请滴入血液。</string>-->
+    <!--<string name="measure_finished">本次测量已完成，您可以插入新的试纸继续测量或者关闭设备结束测量。-->
+    <!--</string>-->
+    <!--<string name="measuring">正在测量</string>-->
+    <!--<string name="complete_info_text">测量完成</string>-->
+    <!--<string name="before_meals">餐前</string>-->
+    <!--<string name="after_meals">餐后</string>-->
+    <!--<string name="open_bluetooth">请打开手机的蓝牙！</string>-->
+    <!--<string name="timer">%1$d秒</string>-->
+    <!--<string name="measure_name">%1$s:</string>-->
+    <!--<string name="error_device_self_check">设备自检失败，请重启测试设备！</string>-->
+    <!--<string name="error_device_operate">操作错误！</string>-->
+    <!--<string name="system_error">系统错误，请重启测试设备！</string>-->
+    <!--<string name="error_paper_overdue">试纸已过期，请更换一张试纸！</string>-->
+
+    <!--&lt;!&ndash; detail &ndash;&gt;-->
+    <!--<string name="text_age">年龄: %1$d</string>-->
+    <!--<string name="text_sex">性别: %1$s</string>-->
+    <!--<string name="type_glu">血糖</string>-->
+    <!--<string name="type_cho">胆固醇</string>-->
+    <!--<string name="type_tg">尿酸</string>-->
+    <!--<string name="type_ua">甘油三酯</string>-->
+    <!--<string name="no_history_data">没有历史测量数据</string>-->
+    <!--<string name="no_data">没有测量数据</string>-->
+    <!--<string name="date_select_text">日期选择</string>-->
+    <!--<string name="latest_measure_text">最近一次测量:</string>-->
+    <!--<string name="relative_high_text">偏高</string>-->
+    <!--<string name="healthy_text">健康</string>-->
+    <!--<string name="relative_low_text">偏低</string>-->
+
+    <!--&lt;!&ndash; bar chart &ndash;&gt;-->
+    <!--<string name="max">最高值</string>-->
+    <!--<string name="min">最低值</string>-->
+    <!--<string name="acg_text">餐前</string>-->
+    <!--<string name="pbg_text">餐后</string>-->
+    <!--<string name="average">平均值</string>-->
+    <!--<string name="unit_text">单位:%1$s</string>-->
+    <!--<string name="before_meals_result">餐前 %1$s</string>-->
+    <!--<string name="after_meals_result">餐后 %1$s</string>-->
+    <!--<string name="detail_health">%1$s : %2$s%3$s</string>-->
+
+    <!--&lt;!&ndash; risk&suggest &ndash;&gt;-->
+    <!--<string name="risk_suggest_title">风险和建议</string>-->
+    <!--<string name="risk">风险</string>-->
+    <!--<string name="suggest">建议</string>-->
+
+</resources>

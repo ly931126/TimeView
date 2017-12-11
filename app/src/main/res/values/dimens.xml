@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- common text size -->
+    <dimen name="text_size_huge">46sp</dimen>
+    <dimen name="text_size_super_large">40sp</dimen>
+    <dimen name="text_size_large">36sp</dimen>
+    <dimen name="text_size_super_big">32sp</dimen>
+    <dimen name="text_size_big">30sp</dimen>
+    <dimen name="text_size_normal">27sp</dimen>
+    <dimen name="text_size_small">24sp</dimen>
+    <dimen name="text_size_smaller">22sp</dimen>
+    <dimen name="text_size_super_small">20sp</dimen>
+    <dimen name="text_size_little">18sp</dimen>
+    <dimen name="text_size_micro">16sp</dimen>
+    <dimen name="text_size_super_micro">13sp</dimen>
+
+    <!-- common margin -->
+    <dimen name="margin_super_huger">100dp</dimen>
+    <dimen name="margin_super_more_huge">80dp</dimen>
+    <dimen name="margin_super_huge">70dp</dimen>
+    <dimen name="margin_more_huge">65dp</dimen>
+    <dimen name="margin_huge">60dp</dimen>
+    <dimen name="margin_super_large">50dp</dimen>
+    <dimen name="margin_middle_large">47dp</dimen>
+    <dimen name="margin_large">40dp</dimen>
+    <dimen name="margin_super_big">35dp</dimen>
+    <dimen name="margin_big">30dp</dimen>
+    <dimen name="margin_normal">25dp</dimen>
+    <dimen name="margin_small">20dp</dimen>
+    <dimen name="margin_super_small">18dp</dimen>
+    <dimen name="margin_little">14dp</dimen>
+    <dimen name="margin_micro">10dp</dimen>
+    <dimen name="margin_super_micro">8dp</dimen>
+    <dimen name="margin_tiny">5dp</dimen>
+    <dimen name="margin_super_tiny">3dp</dimen>
+    <dimen name="no_margin">0dp</dimen>
+
+    <!-- common padding -->
+    <dimen name="padding_huge">100dp</dimen>
+    <dimen name="padding_large">80dp</dimen>
+    <dimen name="padding_super_big">70dp</dimen>
+    <dimen name="padding_big">60dp</dimen>
+    <dimen name="padding_normal">50dp</dimen>
+    <dimen name="padding_small">40dp</dimen>
+    <dimen name="padding_super_small">30dp</dimen>
+    <dimen name="padding_smaller">25dp</dimen>
+    <dimen name="padding_little">20dp</dimen>
+    <dimen name="padding_super_little">15dp</dimen>
+    <dimen name="padding_micro">10dp</dimen>
+    <dimen name="padding_super_micro">8dp</dimen>
+    <dimen name="padding_tiny">7dp</dimen>
+    <dimen name="padding_super_tiny">5dp</dimen>
+    <dimen name="padding_more_super_tiny">3dp</dimen>
+    <dimen name="no_padding">0dp</dimen>
+
+    <!-- login -->
+    <dimen name="login_button_width">260dp</dimen>
+    <dimen name="login_button_height">40dp</dimen>
+    <dimen name="resister_margin_bottom">258dp</dimen>
+    <dimen name="clear_edit_text_width">284dp</dimen>
+
+    <!-- register -->
+    <dimen name="top_bar_height">64dp</dimen>
+
+    <!-- forget -->
+    <dimen name="user_code_width">160dp</dimen>
+    <dimen name="send_code_btn_width">110dp</dimen>
+
+    <!-- main fragment -->
+    <dimen name="measure_button_width">200dp</dimen>
+    <dimen name="measure_button_height">35dp</dimen>
+    <dimen name="edit_user_text_width">200dp</dimen>
+    <dimen name="edit_btn_line_width">0.3dp</dimen>
+    <dimen name="edit_member_btn_height">55dp</dimen>
+    <dimen name="edit_bottom_layout_height">59dp</dimen>
+    <dimen name="member_photo_pixel">108dp</dimen>
+    <dimen name="member_item_height">237dp</dimen>
+    <dimen name="member_item_width">175dp</dimen>
+    <dimen name="member_avatar_board_width">1dp</dimen>
+    <dimen name="item_member_name_text_width">90dp</dimen>
+    <dimen name="menu_layout_marigin">150dp</dimen>
+
+    <!-- menu window -->
+    <dimen name="menu_window_width">170dp</dimen>
+    <dimen name="menu_window_height">140dp</dimen>
+    <dimen name="menu_window_offset_y">1dp</dimen>
+    <dimen name="qr_barcode_rect_height">120dp</dimen>
+    <dimen name="qr_border_size">1dp</dimen>
+    <dimen name="qr_corner_length">20dp</dimen>
+    <dimen name="qr_corner_size">3dp</dimen>
+    <dimen name="qr_rect_width">200dp</dimen>
+    <dimen name="qr_scan_line_margin">0dp</dimen>
+    <dimen name="qr_scan_line_size">0.5dp</dimen>
+    <dimen name="qr_toolbar_height">100dp</dimen>
+    <dimen name="qr_topbar_offset">40dp</dimen>
+
+    <!-- edit member window -->
+    <dimen name="edit_member_window_width">335dp</dimen>
+    <dimen name="edit_member_window_height">445dp</dimen>
+    <dimen name="photo_image_pixel">97dp</dimen>
+    <dimen name="confirm_btn_width">200dp</dimen>
+
+    <!-- fragment account manager -->
+    <dimen name="member_text_height">62dp</dimen>
+    <dimen name="manager_btn_height">53dp</dimen>
+    <dimen name="manager_btn_width">267dp</dimen>
+
+    <!-- fragment change password -->
+    <dimen name="old_pwd_edit_width">346dp</dimen>
+    <dimen name="old_pwd_edit_height">45dp</dimen>
+    <dimen name="line_width">320dp</dimen>
+
+    <!-- fragment setting -->
+    <dimen name="setting_item_height">68dp</dimen>
+    <dimen name="setting_text_width">130dp</dimen>
+    <dimen name="setting_content_text_width">110dp</dimen>
+
+    <!-- fragment about -->
+    <dimen name="update_item_height">56dp</dimen>
+    <dimen name="about_margin_left_version_text">135dp</dimen>
+    <dimen name="update_btn_width">48dp</dimen>
+    <dimen name="update_btn_height">24dp</dimen>
+    <dimen name="window_update_width">296dp</dimen>
+    <dimen name="window_update_height">335dp</dimen>
+
+    <!-- measure -->
+    <dimen name="measure_select_window_width">296dp</dimen>
+    <dimen name="measure_select_window_height">123dp</dimen>
+    <dimen name="top_info_text_width">176dp</dimen>
+    <dimen name="top_info_text_height">31dp</dimen>
+    <dimen name="bottom_info_text_height">31dp</dimen>
+    <dimen name="bottom_info_text_width">179dp</dimen>
+    <dimen name="connect_device_btn_width">160dp</dimen>
+    <dimen name="connect_device_btn_height">40dp</dimen>
+
+    <!-- measure window -->
+    <dimen name="usb_measure_text_width">163dp</dimen>
+    <dimen name="usb_measure_text_height">40dp</dimen>
+    <dimen name="measure_step_view_height">80dp</dimen>
+    <dimen name="circle_bg_radius">6dp</dimen>
+    <dimen name="line_bg_width">4dp</dimen>
+    <dimen name="completed_circle_radius">4dp</dimen>
+    <dimen name="complete_line_width">2dp</dimen>
+    <dimen name="measure_window_width">296dp</dimen>
+    <dimen name="measure_window_height">335dp</dimen>
+
+    <!-- measure result window -->
+    <dimen name="window_measure_result_width">296dp</dimen>
+    <dimen name="window_measure_result_height">381dp</dimen>
+    <dimen name="margin_top_huge">56dp</dimen>
+    <dimen name="complete_bottom_layout_height">48dp</dimen>
+    <dimen name="meal_layout_height">40dp</dimen>
+    <dimen name="meals_btn_width">107dp</dimen>
+    <dimen name="complete_image_pixel">89dp</dimen>
+    <dimen name="member_name_text_width">50dp</dimen>
+
+    <!-- detail -->
+    <dimen name="vertical_line_width">1dp</dimen>
+    <dimen name="detail_title_layout_height">120dp</dimen>
+    <dimen name="detail_text_height">40dp</dimen>
+    <dimen name="detail_text_margin_top">-20dp</dimen>
+    <dimen name="usb_measure_step_text_width">300dp</dimen>
+    <dimen name="detail_text_layout_width">216dp</dimen>
+    <dimen name="date_select_layout_height">29dp</dimen>
+    <dimen name="round_size">10dp</dimen>
+    <dimen name="detail_line_width">6dp</dimen>
+    <dimen name="detail_line_height">1dp</dimen>
+    <dimen name="switch_screen_image_pixel">64dp</dimen>
+    <dimen name="date_text_size">9sp</dimen>
+    <dimen name="result_range_text_size">12sp</dimen>
+    <dimen name="time_text_size">14sp</dimen>
+
+    <!-- risk&suggest -->
+    <dimen name="risk_layout_height">150dp</dimen>
+
+    <!-- load progress dialog -->
+    <dimen name="wait_window_width">180dp</dimen>
+    <dimen name="wait_window_height">110dp</dimen>
+    <dimen name="dot_progress_bar_height">30dp</dimen>
+    <dimen name="result_divider_height">70dp</dimen>
+
+</resources>

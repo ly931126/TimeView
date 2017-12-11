@@ -1,0 +1,172 @@
+<resources>
+    <string name="app_name">Myuu</string>
+
+    <!--&lt;!&ndash; login  &ndash;&gt;-->
+    <!--<string name="user_name">User name</string>-->
+    <!--<string name="user_password">Password</string>-->
+    <!--<string name="remember_info_text">Remember me</string>-->
+    <!--<string name="forget_password_text">Forget password</string>-->
+    <!--<string name="register_text_question">Don\'t have a count?</string>-->
+    <!--<string name="register">Register</string>-->
+    <!--<string name="login">Login</string>-->
+    <!--<string name="confirm_password">Confirm password</string>-->
+    <!--<string name="user_email">Email</string>-->
+    <!--<string name="new_member_password">New password</string>-->
+    <!--<string name="new_confirm_password">Confirm new password</string>-->
+    <!--<string name="user_code">Code</string>-->
+    <!--<string name="send_code">Send Code</string>-->
+    <!--<string name="send_code_timer">%1$ds</string>-->
+    <!--<string name="confirm">Confirm</string>-->
+    <!--<string name="terms_conditions_text"><![CDATA[Terms &  conditions]]></string>-->
+    <!--<string name="login_error_account">User name or password error, please check</string>-->
+    <!--<string name="login_active_account">Account isn\'t activated, please activate your account by-->
+        <!--mail-->
+    <!--</string>-->
+
+    <!--<string name="empty_user_name">User name is empty!</string>-->
+    <!--<string name="empty_pwd">Password is empty!</string>-->
+    <!--<string name="pwd_len_limit">Password length is limited 4</string>-->
+    <!--<string name="error_match_pwd">Confirm password doesn\'t match password</string>-->
+    <!--<string name="empty_email">Email is empty!</string>-->
+    <!--<string name="error_format_email">Email format error!</string>-->
+    <!--<string name="register_success">Register successfully, please activate your account by mail-->
+    <!--</string>-->
+    <!--<string name="register_exist_name">User name is exist, please modify</string>-->
+    <!--<string name="register_exist_email">Email is exist, please modify</string>-->
+    <!--<string name="register_error_email">Email format error, please check</string>-->
+    <!--<string name="connect_failed">Connect failed!</string>-->
+    <!--<string name="server_error">Server error!</string>-->
+    <!--<string name="request_verify_code">Please enter verify code by checking mail</string>-->
+    <!--<string name="modify_pwd_success">Modify password successfully</string>-->
+    <!--<string name="verify_code_timer_limit">Not more than 60 seconds from the last verification code,-->
+        <!--Please try again later-->
+    <!--</string>-->
+    <!--<string name="forget_pwd_not_exist_email">Email isn\'t exist, please check</string>-->
+    <!--<string name="verify_code_error">Verify code error, please check</string>-->
+    <!--<string name="verify_code_overdue">Verify code overdue, please send again</string>-->
+
+    <!--&lt;!&ndash; main &ndash;&gt;-->
+    <!--<string name="main_top_bar_title">Member</string>-->
+    <!--<string name="measure_text">Measure</string>-->
+
+    <!--&lt;!&ndash; slide menu &ndash;&gt;-->
+    <!--<string name="account_manager">Account manage</string>-->
+    <!--<string name="setting">Setting</string>-->
+    <!--<string name="about">About</string>-->
+
+    <!--&lt;!&ndash; menu window &ndash;&gt;-->
+    <!--<string name="add_member">Add member</string>-->
+    <!--<string name="delete_member">Delete member</string>-->
+
+    <!--&lt;!&ndash; edit member window &ndash;&gt;-->
+    <!--<string name="name_text">Name</string>-->
+    <!--<string name="birthday_text">Birthday</string>-->
+    <!--<string name="sex_female">Female</string>-->
+    <!--<string name="sex_male">Male</string>-->
+    <!--<string name="cancel">Cancel</string>-->
+    <!--<string name="finish">Finish</string>-->
+    <!--<string name="empty_name">Name is empty</string>-->
+
+    <!--&lt;!&ndash; QR code &ndash;&gt;-->
+    <!--<string name="error_open_camera">Open camera error</string>-->
+    <!--<string name="error_qr_code">Error QR code</string>-->
+    <!--<string name="qr_code">QR code</string>-->
+    <!--<string name="qr_code_tip">Qr code is placed within the box, can automatically scan to login-->
+    <!--</string>-->
+    <!--<string name="qr_login_success">QR code login successfully</string>-->
+    <!--<string name="qr_login_failed">QR code login failed</string>-->
+
+    <!--&lt;!&ndash; account manager &ndash;&gt;-->
+    <!--<string name="change_password">Change password</string>-->
+    <!--<string name="change_email">Change email</string>-->
+    <!--<string name="old_password">Old password</string>-->
+    <!--<string name="new_member_email">New email</string>-->
+    <!--<string name="new_confirm_email">Confirm new email</string>-->
+    <!--<string name="empty_old_pwd">Old password is empty</string>-->
+    <!--<string name="empty_new_pwd">New password is empty</string>-->
+    <!--<string name="error_old_pwd">Old password is error, please check</string>-->
+    <!--<string name="modify_old_pwd_failed">Modify old password failed</string>-->
+    <!--<string name="modify_email_success">Modify email successfully</string>-->
+    <!--<string name="new_email_exist">New email exist, please re-enter</string>-->
+    <!--<string name="modify_email_pwd_error">Password is error, please check</string>-->
+    <!--<string name="modify_email_failed">Modify email failed!</string>-->
+    <!--<string name="log_out_text">Log out</string>-->
+
+    <!--&lt;!&ndash; setting &ndash;&gt;-->
+    <!--<string name="setting_unit">Unit setting</string>-->
+    <!--<string name="setting_mol">mmol/L</string>-->
+    <!--<string name="setting_mg">mg/dL</string>-->
+    <!--<string name="setting_connect_way">Connect way</string>-->
+    <!--<string name="setting_bluetooth">Bluetooth</string>-->
+    <!--<string name="setting_usb">USB</string>-->
+
+    <!--&lt;!&ndash; about &ndash;&gt;-->
+    <!--<string name="check_update">Check update</string>-->
+    <!--<string name="version_new">New</string>-->
+    <!--<string name="update_text">Update</string>-->
+    <!--<string name="version_latest">The version is the latest</string>-->
+
+    <!--&lt;!&ndash; measure &ndash;&gt;-->
+    <!--<string name="no_support_bluetooth">Bluetooth not supported</string>-->
+    <!--<string name="no_found_device">Not found device, please start measuring instrument</string>-->
+    <!--<string name="bluetooth_connect_text">Bluetooth</string>-->
+    <!--<string name="usb_connect_text">USB</string>-->
+    <!--<string name="measure_step_text">Measure</string>-->
+    <!--<string name="connect_device_text">Connection device</string>-->
+    <!--<string name="measure_top_info">Please open the device, the connection of mobile phone</string>-->
+    <!--<string name="bottom_info_text">Click on the button below to connect to the device</string>-->
+    <!--<string name="usb_connect_failed">USB connected, please check to support OTG</string>-->
+    <!--<string name="measure_connect_success">Successful connection device</string>-->
+    <!--<string name="measure_insert_usb_device">Please insert the measuring instrument.</string>-->
+    <!--<string name="measure_insert_text_paper">Please insert test paper.</string>-->
+    <!--<string name="measure_drop_blood">Test paper has been inserted ,please drop-->
+        <!--blood.-->
+    <!--</string>-->
+    <!--<string name="measure_finished">The measurement has been completed and you can-->
+        <!--insert new test paper or turn off the equipment, or press exit to exit.-->
+    <!--</string>-->
+    <!--<string name="measuring">Ongoing measurement……</string>-->
+    <!--<string name="complete_info_text">Measurement completed</string>-->
+    <!--<string name="before_meals">Before meals</string>-->
+    <!--<string name="after_meals">After meals</string>-->
+    <!--<string name="open_bluetooth">Please open bluetooth</string>-->
+    <!--<string name="timer">%1$ds</string>-->
+    <!--<string name="measure_name">%1$s:</string>-->
+    <!--<string name="error_device_self_check">Device failed to self-check</string>-->
+    <!--<string name="error_device_operate">Operate error</string>-->
+    <!--<string name="system_error">System error</string>-->
+    <!--<string name="error_paper_overdue">Paper overdue, please replace</string>-->
+
+    <!--&lt;!&ndash; detail &ndash;&gt;-->
+    <!--<string name="text_age">Age: %1$d</string>-->
+    <!--<string name="text_sex">Gender: %1$s</string>-->
+    <!--<string name="type_glu">Glycemic</string>-->
+    <!--<string name="type_cho">Cholesterol</string>-->
+    <!--<string name="type_tg">Uric acid</string>-->
+    <!--<string name="type_ua">Triglyceride</string>-->
+    <!--<string name="no_history_data">No history measurement</string>-->
+    <!--<string name="no_data">No data</string>-->
+    <!--<string name="date_select_text">Date select</string>-->
+    <!--<string name="latest_measure_text">Latest measurement:</string>-->
+    <!--<string name="relative_high_text">relative high</string>-->
+    <!--<string name="healthy_text">healthy</string>-->
+    <!--<string name="relative_low_text">relative low</string>-->
+
+    <!--&lt;!&ndash; bar chart &ndash;&gt;-->
+    <!--<string name="max">Max</string>-->
+    <!--<string name="min">Min</string>-->
+    <!--<string name="acg_text">ACG</string>-->
+    <!--<string name="pbg_text">PBG</string>-->
+    <!--<string name="average">AVE</string>-->
+    <!--<string name="unit_text">Unit:%1$s</string>-->
+    <!--<string name="before_meals_result">Before meals %1$s</string>-->
+    <!--<string name="after_meals_result">After meals %1$s</string>-->
+    <!--<string name="detail_health">%1$s : %2$s%3$s</string>-->
+
+    <!--&lt;!&ndash; risk&suggest &ndash;&gt;-->
+    <!--<string name="risk_suggest_title">Risk and suggestion</string>-->
+    <!--<string name="risk">Risk</string>-->
+    <!--<string name="suggest">Suggestion</string>-->
+
+
+</resources>
